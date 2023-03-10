@@ -6,6 +6,7 @@
   <packaging>war</packaging>
   <name>WebProject</name>
   <description>First Sample Project</description>
+  
   <dependencies>
     <dependency>
         <groupId>javax.servlet</groupId>
@@ -20,6 +21,7 @@
         <scope>provided</scope>
     </dependency>
 </dependencies>
+  
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
