@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-WELCOME
+WELCOMES
 <br></br><br></br>
 <form action="helloJEE" method="post">
     Enter your name: <input type="text" name="yourName" size="20">
