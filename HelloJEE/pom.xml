@@ -4,7 +4,7 @@
   <artifactId>HelloJEE</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>WebProject</name>
+  <name>WebProject-New</name>
   <description>First Sample Project</description>
   
   <dependencies>
